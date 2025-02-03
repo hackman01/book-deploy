@@ -43,7 +43,7 @@ Ensure you have the following installed:
 
 ## 🛠 Features
 
-- 📖 Add, update, delete books
+- 📖 Add, update, delete books, Discover books, Like books, Send Exchange Request and Manage Requests.
 - 🔑 User authentication with JWT
 - 🎨 Modern UI with Material UI and Tailwind CSS
 - ⚡ State management with Redux Toolkit
