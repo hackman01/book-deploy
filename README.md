@@ -23,24 +23,20 @@ Ensure you have the following installed:
    cd book-deploy
    ```
 
-2. **Install Dependencies:**
-   ```sh
-   npm install
-   ```
 
-3. **Setup Environment Variables:**
+2. **Setup Environment Variables:**
    Create a `.env` file in the root directory and provide the required environment variables:
    ```env
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_secret_key
    ```
 
-4. **Build the Application:**
+3. **Build the Application:**
    ```sh
    npm run build
    ```
 
-5. **Run the Application:**
+4. **Run the Application:**
    ```sh
    npm start
    ```
