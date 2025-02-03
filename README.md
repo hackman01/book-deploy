@@ -59,5 +59,4 @@ Contributions are welcome! Feel free to submit a pull request.
 
 ---
 
-📌 **Developed by Your Name**
-Aman Maurya
+📌 **Developed by Aman Maurya**
