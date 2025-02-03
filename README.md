@@ -40,6 +40,10 @@ Ensure you have the following installed:
    ```sh
    npm start
    ```
+5. **In Browser:**
+   ```
+   localhost:8000/
+   ```
 
 ## 🛠 Features
 
