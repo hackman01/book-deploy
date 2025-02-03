@@ -20,7 +20,7 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/hackman01/book-deploy.git
-   cd book-management
+   cd book-deploy
    ```
 
 2. **Install Dependencies:**
