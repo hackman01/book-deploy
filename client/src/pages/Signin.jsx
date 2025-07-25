@@ -39,6 +39,7 @@ export default function SigninPage() {
   }
 
   return (
+    <div>
     <Container component="main" maxWidth="xs">
       <CssBaseline />
       <Paper 
@@ -111,5 +112,17 @@ export default function SigninPage() {
       </Paper>
    
     </Container>
+    <Box sx={{ mt: 2, p: 2, bgcolor: 'background.paper', borderRadius: 1, border: '1px solid', borderColor: 'divider' }}>
+      <Typography variant="subtitle1" sx={{ mb: 1 }}>
+        Test Credentials
+      </Typography>
+      <Typography variant="body2" color="text.secondary">
+        Email: am@we.com
+      </Typography>
+      <Typography variant="body2" color="text.secondary">
+        Password: 12345678
+      </Typography>
+    </Box>
+    </div>
   );
 }
